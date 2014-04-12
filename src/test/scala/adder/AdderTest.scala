@@ -1,4 +1,5 @@
-import adder._
+package adder
+
 import org.scalatest._
 import org.scalatest.junit.JUnitRunner
 import org.junit.runner.RunWith
